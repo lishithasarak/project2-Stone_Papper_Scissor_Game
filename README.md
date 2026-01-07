@@ -5,16 +5,18 @@
 ## <ins>Tech Stack</ins>
 
 <ul>
-  <li>1.HTML</li>  
-  <li>2.CSS</li>
-  <li>3.Javascript</li>
+  <li>HTML</li>  
+  <li>CSS</li>
+  <li>Javascript</li>
 </ul>
 
 ## <ins>Features</ins>
 
-  1.User vs computer gameplay<br>
-  2.Random computer moves<br> 
-  3.Instant result display
+<ul>
+  <li>User vs computer gameplay</li>
+  <li>Random computer moves</li>  
+  <li>Instant result display</li>
+</ul>
 
 ## <ins>Author</ins>
 
