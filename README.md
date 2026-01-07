@@ -1,8 +1,8 @@
-Stone Paper Scissors Game
+# Stone Paper Scissors Game
 
-A simple Stone–Paper–Scissors game built using HTML, CSS, and JavaScript to practice basic web development and game logic.
+A simple Stone–Paper–Scissors web game built with HTML, CSS, and JavaScript for practice.
 
-Technologies Used
+<u>Tech Stack</u>
 
 HTML5
 
@@ -10,15 +10,7 @@ CSS3
 
 JavaScript
 
-Purpose
-
-Practice DOM manipulation
-
-Improve JavaScript logic
-
-Build an interactive web game
-
-Features
+<u>Features</u>
 
 User vs computer gameplay
 
