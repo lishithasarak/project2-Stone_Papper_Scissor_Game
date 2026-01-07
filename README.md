@@ -4,9 +4,11 @@
 
 ## <ins>Tech Stack</ins>
 
-  1.HTML5 <br>  
-  2.CSS <br> 
-  3.Javascript<br>
+<ul>
+  <li>1.HTML</li>  
+  <li>2.CSS</li>
+  <li>3.Javascript</li>
+</ul>
 
 ## <ins>Features</ins>
 
