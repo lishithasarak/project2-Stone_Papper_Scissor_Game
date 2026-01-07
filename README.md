@@ -1,15 +1,15 @@
 ## <u><strong>Stone Paper Scissors Game</strong></u>
 
-A simple <strong>Stone–Paper–Scissors</strong> web game built with <strong>HTML, CSS, and JavaScript</strong> for practice.
+A simple Stone–Paper–Scissors web game built with HTML, CSS, and JavaScript for practice.
 
 ## <u><strong>Tech Stack</strong></u>
 
-HTML5  
-CSS 
+HTML5<br>  
+CSS<br> 
 Javascript
 
 ## <u><strong>Features</strong></u>
 
-User vs computer gameplay 
-Random computer moves 
+User vs computer gameplay<br>
+Random computer moves<br> 
 Instant result display
