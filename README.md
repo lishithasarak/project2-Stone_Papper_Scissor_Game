@@ -4,9 +4,9 @@ A simple Stone–Paper–Scissors web game built with HTML, CSS, and JavaScript 
 
 ## <u><strong>Tech Stack</strong></u>
 
-HTML5<br>  
-CSS<br> 
-Javascript
+HTML5 <br>  
+CSS <br> 
+Javascript<br>
 
 ## <u><strong>Features</strong></u>
 
